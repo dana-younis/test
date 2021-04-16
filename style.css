@@ -1,0 +1,28 @@
+*{
+box-sizing: border-box;
+}
+body{
+   background-image:url('https://www.touristjordan.com/wp-content/uploads/2017/01/805px-Petra-Night-768x386.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+div{
+    
+      
+        text-align:center;
+
+      
+     /* background-image: url(https://cdn.crispedge.com/773300.webp);  */
+   
+}
+.input{
+    color: aqua;
+    margin: 1%;
+    margin-bottom: 1%;
+
+   
+}
+header{
+    text-align:center;
+    color: aqua;
+}
